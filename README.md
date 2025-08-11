@@ -1,6 +1,6 @@
 # Beats-by-Dre-Qualitative-and-Quantitative-Insights
 
-This is a 12-Week remote internship at *Beats by Dre Electronics (Culver City, CA)* in collaboration with *Extern (formerly ParagonOne)*. It runs for 12 weeks starting from June 30th 2025 until September 19th 2025. Thank you to Michael Guerrero who was my program manager for both my externships.
+This is a remote internship at *Beats by Dre Electronics (Culver City, CA)* in collaboration with *Extern (formerly ParagonOne)*. It runs for 12 weeks starting from June 30th 2025 until September 19th 2025. Thank you to Michael Guerrero who was my program manager for both my externships.
 
 
 The Qualitative & Quantitative Insights Externship consists of four (4) projects. Starting with an introduction to the Beats brand, its history and identity; we learned to approach the tasks with a good understanding of the legacy to help preserve it. Since the program is ongoing, I will update this page as new content becomes available.
